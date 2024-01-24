@@ -22,9 +22,13 @@ This simple Linux shell script is used to set a shutdown timer or cancel a sched
 ## Usage Example
 
 ```bash
-./shutdown_script.sh
+./shutdownTimer.sh
 
 ```
+-If does everyone not have exeute permission (no chmod +x)
+´´´bash
+bash shutdownTimer.sh
+´´´
 
 ## Contributing
 
