@@ -26,9 +26,12 @@ This simple Linux shell script is used to set a shutdown timer or cancel a sched
 
 ```
 -If does everyone not have exeute permission (no chmod +x)
-´´´bash
+
+```bash
 bash shutdownTimer.sh
-´´´
+
+```
+
 
 ## Contributing
 
